@@ -1,0 +1,11 @@
+{
+  "name": "firstmodulegci",
+  "version": "1.0.0",
+  "description": "First hello world program by julika",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JULIKA-SCIENTIST <julikaazaschoolvov@gmail.com>",
+  "license": "MIT"
+}
