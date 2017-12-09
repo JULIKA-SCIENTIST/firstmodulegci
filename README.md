@@ -13,7 +13,7 @@ npm install firstmodulegci --save
 
 ```javascript
 var firstmodule = require('firstmodulegci');
-var output = firstmodule.printMsg('Boy');
+var output = firstmodule.printMsg();
 console.log(output);
 
 ```
